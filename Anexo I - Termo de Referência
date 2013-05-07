@@ -1,0 +1,225 @@
+
+ANEXO I
+“TERMO DE REFERÊNCIA”
+Prestação de serviços de redes sem fio
+ 1   Objeto
+ 1.1 	Prestação de serviços de instalação de infraestrutura de redes sem fio, com manutenção, suporte, mão-de-obra, cabeamento, link Internet e demais equipamentos necessários, doravante denominada “Prestação de Serviços”, em áreas externas, dentro dos limites geográficos do Município de São Paulo, conforme ANEXO XI.
+ 1.2 	Para a completa Prestação de Serviços, deverão estar previstos:
+ 1.2.1 	Antenas direcionais, setoriais, omnidirecionais e cabos irradiantes;
+ 1.2.2 	Conectores e amplificadores;
+ 1.2.3 	Fios, cabos elétricos, de RF, UTP, STP, e cabos ópticos;
+ 1.2.4 	Racks e demais equipamentos de bastidores de ambientes de Tecnologia da Informação (TI) e de Telecomunicações;
+ 1.2.5 	Torres, postes e suportes para instalação e fixação dos equipamentos, acompanhados de sistemas próprios de proteção contra descargas atmosféricas, caso necessário;
+ 1.2.6 	Hardware computacional necessário, tais como computadores, no-breaks, access points, wireless controllers, access switches;
+ 1.2.7 	Software básico necessário, como sistemas operacionais, servidores de bancos de dados relacionais, drivers, servidores do tipo syslog, SNMP ou similares;
+ 1.2.8 	Network appliances ou software para serviços de autenticação, contabilização de tráfego, controle de acesso de usuários (AAA), firewall, IPS (Intrusion Prevent System), antivírus de gateway, sistemas de QoS, limitação de banda, volumetria de tráfego, filtros de conteúdo e detecção de access points não-autorizados;
+ 1.2.9 	Ferramentas e equipamentos para site survey e confecção de plantas simples ou croquis de instalação;
+ 1.2.10 	Equipamentos de comunicação de dados (com ou sem fio) necessários para o funcionamento e intercomunicação dos pontos da rede wi-fi e cabeamento estruturado associado;
+ 1.2.11 	Fornecimento de instalação adicional de energia elétrica estabilizada e dotada de no-break ou UPS, incluindo Sistema de Proteção de Descargas Atmosféricas, fios e condutores elétricos, surge protectors, isolantes elétricos, canaletas, eletrocalhas, eletrodutos, braçadeiras, suportes, parafusos e dispositivos de fixação;
+ 1.2.11.1 	Os equipamentos devem ser instalados mantendo-se o padrão de pintura e acabamento do local onde forem instalados;
+ 1.2.11.2 	Os eletrodutos, eletrocalhas e conduítes devem ser instalados sem compartilhamento com outros serviços e devem conter marcação indicando o nome da CONTRATADA, PRODAM e o número de telefone indicado pela PRODAM;
+ 1.2.11.3 	Os serviços deverão ser executados de acordo com as normas NBR 5410, NBR 5419 e NBR 14565, em suas versões mais recentes;
+ 1.2.12 	Ferramentas de software para configuração e gerenciamento da rede, com registro de chamados, atendimentos e ocorrência, e possibilidade de extração de relatórios gerenciais de uso, performance, problemas e alertas de monitoramento;
+ 1.2.12.1 	Acesso somente leitura desta ferramenta para a PRODAM que a seu critério poderá torná-la pública;
+ 1.2.13 	As Ferramentas de software para autenticação, armazenamento de dados de cadastro, acesso e uso dos usuários será instalada localmente e será um espelho da existente na PRODAM e seguindo os mesmos padrões adotados:
+ 1.2.13.1 	Banco de Dados para os dados dos usuários;
+ 1.2.13.2 	Usuários no padrão LDAP;
+ 1.2.13.3 	Portal Captiva;
+ 1.2.13.4 	Radius;
+ 1.2.14 	Estoque de equipamentos e outros itens, criando uma reserva técnica de reposição rápida para fins de cumprimento dos níveis de serviço;
+ 1.2.15 	Link de comunicação para acesso da CONTRATADA à ferramenta de software para armazenamento de dados de cadastro e uso dos usuários e acesso da PRODAM a ferramentas de software para configuração e gerenciamento da rede;
+
+ 2 	Características da Prestação de Serviços
+ 2.1 	Características de equipamentos
+ 2.1.1 	Os equipamentos de rádio frequência deverão ser homologados pela ANATEL (Agência Nacional de Telecomunicações);
+ 2.1.2 	Deverão ser instalados access points dual band;
+ 2.1.3 	Deverão atender ao padrão MIMO 3x3;
+ 2.1.4 	Deverão ser capaz de operar em malha de rede “Mesh”, ou equivalente;
+ 2.1.5 	Deverão ser capazes de operar com beamforming;
+ 2.1.6 	Deverão ser capazes de operar em ponto-multiponto;
+
+ 2.2 	Protocolos
+ 2.2.1 	As redes instaladas devem ser compatíveis com equipamentos tais como e não se limitando à celulares, handhelds, notebooks, tablets, netbooks e desktops através dos seguintes protocolos IEEE:
+ 2.2.1.1 	IEEE 802.11a;
+ 2.2.1.2 	IEEE 802.11b;
+ 2.2.1.3 	IEEE 802.11g;
+ 2.2.1.4 	IEEE 802.11n;
+ 2.2.1.5 	IEEE 802.11ac (draft 5.0 ou superior);
+
+ 2.2.2 	Os SSIDs deverão ser configurados de acordo com parâmetros especificados pela Gestora Técnica do Contrato (PRODAM), podendo, inclusive, não ser divulgado em broadcast (hidden);
+ 2.2.2.1 	As redes wireless poderão estar localizadas em VLANs distintas, determinadas a critério do Gestora Técnica do Contrato;
+ 2.2.2.2 	As freqüências de operação dos equipamentos fornecidos devem se situar nas faixas permitidas, de 2.4GHz e 5GHz.
+
+ 2.3 	Instalação e Cobertura
+ 2.3.1 	Qualquer área de propriedade, uso, supervisão, ou cedida ao CONTRATANTE, pode ser utilizada para fins de implantação de rede sem fio (wireless);
+ 2.3.1.1 	Em equipamentos homologados para utilização pela CONTRATANTE, tais como postes de iluminação, paredes, colunas, pontes, caixas d’água, entre outros.
+ 2.3.2 	A cobertura da rede será definida pela CONTRATANTE e Gestora Técnica do Contrato em planta ou croqui já existente ou, caso necessário, elaborado pela CONTRATADA;
+ 2.3.2.1 	O croqui, ao ser modificado pelo CONTRATANTE, deve conter os limites iniciais das áreas a serem cobertas, com determinação dos tipos de cobertura, conforme definidos no item 5.1, dos Pontos de Interesse, cuja aferição de SLA pela Gestora Técnica do Contrato é obrigatório;
+ 2.3.3 	A CONTRATATADA, de posse do croqui inicial com as áreas de coberturas definidas, deverá inserir as localizações dos equipamentos utilizados para montagem da rede e confeccionar relatório de mudanças de infraestrutura, enviando ambos à Gestora Técnica do Contrato, para aprovação;
+ 2.3.4 	Uma vez efetuadas e aprovadas as alterações necessárias de infraestrutura, a Gestora Técnica do Contrato e CONTRATANTE informarão a CONTRATADA para início da implantação da rede;
+ 2.3.4.1 	A infraestrutura local de redes lógica e elétrica exclusiva para o funcionamento da rede wi-fi é de responsabilidade da CONTRATADA;
+ 2.3.4.2 	A infraestrutura local existente de elétrica, utilizada para o funcionamento da rede wi-fi é de responsabilidade da CONTRATANTE;
+ 2.3.4.3 	A data do envio desta informação será utilizada como início do prazo para fins de cumprimento dos níveis de serviço, definidos no item 3 deste termo de referência;
+ 2.3.5 	A rede deverá permitir movimentação livre dos equipamentos clientes e dos usuários da rede sem fio dentro da área de cobertura, sem desconexões ou novas autenticações (Roaming/Hand-over);
+A área de cobertura, independentemente do seu tipo, será definida na forma de números múltiplos de 50 metros quadrados;
+ 2.3.5.1 	Não serão permitidos contratos para áreas mínimas, isto é, considerando o somatório das áreas de todos os tipos descritos no item 5.1 e pertencentes ao um mesmo logradouro ou área contígua, inferiores a 600 metros quadrados;
+ 2.3.6 	A CONTRATADA deve fornecer até 2 (dois) acessos padrão 1000Base-SX em cada localidade atendida, para fins de conectividade da rede sem fio ofertada a uma rede cabeada pré-existente para, por exemplo, fins de análise de QoS, tráfego e monitoramento dos serviços;
+ 2.3.6.1 	O cabeamento e o fornecimento de patch cable óptico estão inclusos em conjunto aos acessos;
+ 2.3.6.2 	Os acessos devem ser capazes de suportar o protocolo IEEE 802.11Q (VLAN tagging);
+
+ 2.3.7 	Alterações de layout
+ 2.3.7.1 	Quaisquer modificações solicitadas pela CONTRATANTE e Gestora Técnica do Contrato, tais como alteração de cobertura, capacidade do link de acesso Internet, mudanças estruturais que acarretem em alterações nos níveis de sinal ou na cobertura da rede wireless serão consideradas como alterações;
+ 2.3.7.1.1 	No caso específico das áreas com alta interferência, devem ser permitidas alterações de layout;
+ 2.3.7.1.2 	As alterações de layout devem ser implantadas por intermédio de novo mapeamento, efetuado pela CONTRATADA, para atualização dos croquis, a fim de correta mensuração dos níveis de serviço;
+ 2.3.8 	A Gestora Técnica do Contrato deverá autorizar o acesso da CONTRATADA às suas dependências, para o correto cumprimento da Prestação de Serviços;
+ 2.3.9 	O hardware deverá ser, sempre que possível, do tipo rackmount.
+ 2.3.10 	Os equipamentos de transmissão de RF e outros que porventura vierem a ser fixados em paredes, deverão ser acompanhados de pequenas obras de alvenaria, de modo a não contrastar com a estética do local instalado;
+
+ 2.4 	Funcionalidades
+ 2.4.1 	Criptografia
+ 2.4.1.1 	As redes deverão, a critério do Gestora Técnica do Contrato, utilizar criptografia na transmissão de dados, em um dos protocolos listados abaixo:
+ 2.4.1.1.1 	WEP (64 e 128 bits);
+ 2.4.1.1.2 	WPA;
+ 2.4.1.1.3 	WPA2;
+ 2.4.1.2 	As redes IEEE 802.11a/ac e IEEE 802.11b/g/n poderão utilizar as criptografias, a critério do Gestora Técnica do Contrato;
+ 2.4.1.3 	As redes IEEE 802.11a/ac e IEEE 802.11b/g/n poderão utilizar criptografias diferentes de acesso, a critério do Gestora Técnica do Contrato;
+
+ 2.4.2 	Autenticação e Controle de Acesso
+ 2.4.2.1 	A utilização da rede sem fio para acesso à Internet poderá ser precedida de autenticação do usuário, a critério do Gestora Técnica do Contrato, nas seguintes formas:
+ 2.4.2.1.1 	Usernames e senhas de acesso;
+ 2.4.2.1.2 	Certificado digital padrão X.509, incluindo aqueles emitidos pelas entidades autorizadas pelo ICP Brasil;
+ 2.4.2.1.3 	Tabelas de MAC Addresses;
+ 2.4.2.1.4 	Senhas ou vouchers para acesso por tempo limitado, de funcionamento análogo aos cartões de telefonia celular;
+ 2.4.2.2 	Na ausência de autenticação, deve ser possível configurar uma lista de servidores web e de URL que podem ser acessados pelos usuários;
+ 2.4.2.3 	As configurações de segurança, tais como regras específicas de firewall, VLAN de acesso, controle de banda, devem estar vinculadas aos usuários através dos dados de autenticação;
+ 2.4.2.4 	A contratada deve prever a adoção de cópias locais das bases de cadastro e autenticação, para evitar atrasos na conexão dos dispositivos à rede wireless;
+
+ 2.5 	Cadastro de Usuários
+ 2.5.1 	Caso a CONTRATANTE solicite, a CONTRATADA se compromete a seguir os padrões de cadastro de usuários adotados pela PRODAM;
+ 2.5.2 	Os usuários poderão a critério da gestora passar por um processo de cadastro por uma das seguintes formas:
+ 2.5.2.1 	Através de cadastro via sistema web específico, com acesso pela Internet (portal da Prefeitura ou PRODAM) ou através da própria rede wireless descrita neste documento;
+ 2.5.3 	Deve ser fornecida ferramenta de extração de relatórios gerenciais, estatísticos e de segurança;
+ 2.5.4 	Todos os dados de cadastro e autenticação são instalados fisicamente em servidor dedicado da CONTRATADA e integrado com o de propriedade da PRODAM, ficando acessíveis à CONTRATADA apenas enquanto perdurar a prestação de serviços, devendo ser encaminhados ao Gestora Técnica do Contrato após o contrato em formato flat text file (arquivo texto, CSV ou ANSI SQL);
+ 2.5.4.1 	O link de comunicação entre a Gestora Técnica do Contrato e as localidades com redes wireless instaladas, ou central de gerenciamento da CONTRATADA, deverá ser implementado por link dedicado e protegido por equipamento tipo firewall fornecido em conjunto à Prestação de Serviços e dimensionado pela CONTRATADA;
+2.5.4.1.1. A CONTRATADA deve prover um mínimo de 50 transações por segundo (leitura e escrita), divididas em um máximo de 5 conexões distintas, para atividades do Gestora Técnica do Contrato, tais como:
+2.5.4.1.1.1. Integração com outros sistemas;
+2.5.4.1.1.2. Verificação de inconsistências;
+2.5.4.1.1.3. Análise de dados;
+2.5.4.1.1.4. Geração de estatísticas;
+2.5.4.1.1.5. Bloqueio ou desbloqueio de contas;
+ 2.5.4.2 	A CONTRATADA deve disponibilizar ferramenta e componente de software para listagem, criação e alteração dos vouchers e senhas de acesso;
+ 2.5.4.2.1 	Também deve ser possível exportar listagens de vouchers de acesso em formatos flat files (TXT, CSV e ODT (Open Document Text) para importação em bancos de dados e integração com sistemas externos;
+ 2.5.4.2.2 	As senhas devem ser armazenadas de forma criptografada, mas passível de serem reaproveitadas em outro sistema, quando da exportação de dados;
+ 2.5.4.2.3 	Detalhes da criptografia utilizada e ferramentas automatizadas e integráveis para criação ou alteração de senhas devem ser fornecidas ao Gestora Técnica do Contrato;
+
+ 2.5.4.3 	A CONTRATADA deve preservar o caráter confidencial das informações, não as utilizando, para uso próprio, sob nenhuma hipótese. Somente poderão ser repassadas as informações, em seu poder, à Prefeitura da Cidade de São Paulo, mediante prévia solicitação da Gestora Técnica do Contrato e/ou à autoridade pública solicitante, sob fundado pedido judicial e/ou administrativo vinculante, sempre observando os preceitos constitucionais atinentes à intimidade e ao sigilo dos dados pessoais.
+
+ 2.6 	Atualização Tecnológica
+ 2.6.1.1 	A CONTRATADA é responsável pela atualização tecnológica de  todo software (incluindo-se firmware) da solução, devendo manter as versões sempre atualizadas;
+ 2.6.1.1.1 	Casos específicos que impossibilitem a utilização das últimas versões deverão ser encaminhados à Gestora Técnica do Contrato, para análise e autorização;
+
+ 2.7 	Acesso Internet
+ 2.7.1 	Deve ser fornecido, como parte da Prestação de Serviços, link de acesso à Internet;
+ 2.7.1.1 	Para cumprimento dos níveis de serviço, o link de acesso poderá ser redundante ou se conectar a várias operadoras, desde que atenda aos SLAs acordados;
+ 2.7.2 	O endereço IP externo à rede wireless não deve pertencer ao escopo de endereços definidos pela RFC 1918, que determina os blocos de endereçamento privado e o endereçamento interno será fornecido pela Gestora Técnica do Contrato, conforme a RFC 1918;
+ 2.7.3 	O link deve estar protegido contra ataques do tipo D.O.S, D.D.O.S.;
+ 2.7.4 	O acesso à internet deve ser protegido por firewall stateful/IPS, devendo ser compatível à demanda definida pelas densidades de equipamentos para cada tipo de área coberta;
+ 2.7.4.1 	A configuração do firewall/IPS deverá atender às diretrizes fornecidas pelo Gestora Técnica do Contrato;
+ 2.7.4.2 	A CONTRATADA deve tomar medidas proativas de configuração de regras de firewall como resposta rápida a incidentes para fins de atendimento dos níveis de serviço;
+ 2.7.5 	O acesso Internet deve permitir uma acomodação de usuários com base na regra a seguir:
+ 2.7.5.1 	A velocidade do link de acesso à Internet deve ser calculada através da regra de multiplicação entre acessos simultâneos e a velocidade padrão de cada usuário, no caso 512 Kbps;
+ 2.7.6 	O link de acesso deve permitir implementação de filtro de conteúdo, conforme descrito na Lei Municipal 14.098/2005 e antivírus de gateway e spyware de gateway;
+
+ 2.7.6.1 	Deve ser permitido, ao Gestora Técnica do Contrato, o bloqueio ou permissão explícitos de acesso a conteúdo de URLs, sites e endereços IP;
+
+ 2.7.6.2 	Logs de utilização: a contratada deverá ser capaz de armazenar, a critério da Gestora Técnica do Contrato, as logs de acesso, pelo período de duração do contrato, para verificação de possíveis irregularidades de acesso aos recursos de internet, contendo, no mínimo, as seguintes informações: usuário, ip de origem, data e hora, domínio e url acessada;
+
+ 2.7.6.2.1 	Ao término do contrato, os registros de log deverão ser repassados à Gestora do Contrato no formato CSV;
+
+ 2.8 	Segurança da Informação e Qualidade de Serviço (QoS)
+A Prestação de serviços deverá possuir as seguintes funcionalidades, a critério da CONTRATANTE e Gestora Técnica do Contrato:
+ 2.8.1 	Meios de mapear e bloquear tráfego de rede por protocolos e usuários (traffic accounting);
+ 2.8.2 	Limitar velocidade de acesso à Internet para cada usuário, dispositivo, serviço (via detecção em layer 7) , endereços IP e portas (TCP ou UDP) evitando abusos;
+ 2.8.2.1 	Deverá ser possível limitar a “zero” a velocidade de conexão à Internet de qualquer dispositivo;
+ 2.8.2.2 	Os limites máximo e mínimo poderão ser qualquer valor entre 32kbps e 16Mbps, ocorrendo em intervalos de 32kbps de resolução ou menos;
+ 2.8.3 	Deve ser possível a configuração de um tempo máximo de operação que, uma vez atingido, exija a re-autenticação do usuário;
+ 2.8.4 	Agendar períodos de funcionamento ou interrupção dos serviços para a rede sem fio;
+ 2.8.4.1 	No caso de interrupção de serviços, poderá ser facultado ao Gestora Técnica do Contrato o redirecionamento de todas as conexões para uma página web pré-determinada, para informação ao usuário;
+ 2.8.5 	O endereçamento IP dos equipamentos conectados à rede sem fio deverá ser feito de acordo com instruções do Gestora Técnica do Contrato, podendo ser:
+ 2.8.5.1 	Fixo;
+ 2.8.5.2 	Dinâmico (DHCP);
+ 2.8.5.3 	Tabela de endereços atribuídos via DHCP de acordo com MAC Addresses especificados;
+
+ 2.9 	Resposta a Incidentes
+ 2.9.1 	A CONTRATADA deve manter postura proativa na identificação de problemas de segurança lógica, tomando todas as medidas cabíveis de reação rápida em primeira instância;
+ 2.9.1.1 	O escalonamento das ações de segurança para outras instâncias competentes só será permitido com aprovação da Gestora Técnica do Contrato;
+ 2.9.2 	Todos os eventos de segurança detectados deverão estar acompanhados de relatórios operacionais das ações tomadas, em formato eletrônico (arquivos padrão PDF ou ODT (Open Document Text);
+ 2.9.2.1 	Estes relatórios devem ser classificados, armazenados, indexados e enviados em periodicidade semanal a Gestora Técnica do Contrato, ou sempre que solicitado por este, para análise e acompanhamento;
+ 2.9.3 	A rede wireless deve ter mecanismos de identificação de access points não autorizados, dentro da área de cobertura;
+ 2.9.3.1 	A CONTRATADA deve tomar medidas proativas para inibir a degradação de serviço provocada por estes equipamentos;
+
+ 2.10 	Regulação do Espectro
+ 2.10.1 	A CONTRATADA deve respeitar todas as regras de utilização do espectro que sejam relevantes para a correta Prestação de Serviços;
+
+ 2.11 	Engenharia de RF
+ 2.11.1 	A CONTRATATADA deve efetuar constante monitoramento do espectro, planejando alterações de canais, ajustes ou reajustes de antenas, e compensação de potência para fins de otimização do uso do espectro de RF, minimizando interferências;
+ 2.11.1.1 	Este monitoramento deve ser feito de forma automática e centralizada em hardware especifico para este fim ou pelos próprios equipamentos utilizados;
+ 2.11.2 	A CONTRATATADA deve seguir todas as normas, portarias e demais legislações atinentes da Anatel e/ou quaisquer outros entes, organismos reguladores, entre outros, pertinentes à prestação de serviços;
+
+ 2.12 	Monitoramento
+ 2.12.1 	A contratada deverá disponibilizar um dashboard da ferramentas de software para configuração e gerenciamento da rede contendo no mínimo as seguintes informações:
+ 2.12.1.1 	APs (Acess Points) ativos
+ 2.12.1.2 	APs inativos
+ 2.12.1.3 	SSIDs propagados em cada localidade
+ 2.12.1.4 	Quantidade de usuários em cada Acess Point
+ 2.12.1.5 	Quantidade de usuários em cada unidade
+ 2.12.1.6 	Tráfego de rede em cada unidade
+ 2.12.1.7 	Disposição do RF da unidade
+ 2.12.1.8 	Rogue APs
+ 2.12.1.9 	Mapa da localidade (no padrão CAD e em escala) com:
+ 2.12.1.9.1 	Localização dos APs
+ 2.12.1.9.2 	Níveis de sinal por AP
+ 2.12.1.9.3 	Cobertura do sinal de cada AP na planta
+ 2.12.2 	A ferramentas de software para configuração e gerenciamento da rede deve possuir relatórios de todos os subitens descritos acima
+ 2.12.2.1 	O tempo de histórico dos dados disponíveis em relatório deverá ser armazenado pelo período do contrato;
+
+ 2.13 	Cobertura
+ 2.13.1 	A cobertura da rede sem fio, definida pela mensuração de nível do sinal RF pertencente ao SSID definido pelo Gestora Técnica do Contrato, deve ser acima de; 
+ 2.13.1.1 	-85dBm para o padrão 802.11a e 802.11ac;
+ 2.13.1.2 	-90dBm para os padrões 802.11b e 802.11g;
+ 2.13.1.3 	-87 dBm para - 802.11n BW 20MHz: MCS8 10-5; -67 dBm para 802.11n BW 20MHz: MCS15; -67 para 10-5 BER, -82 dBm para 802.11n BW 40MHz: MCS8 10-5 BER; -62 dBm para 802.11n BW 40MHz: MCS15 10-5 BER;
+ 2.13.1.4 	Os níveis de sinal serão aferidos no ponto central de uma área de no mínimo 600 metros quadrados;
+ 2.14 	Funcionamento da rede wireless
+ 2.14.1 	Através de envio de pacote ICMP (ping) ao roteador de acesso à Internet;
+ 2.14.2 	O tempo médio de retorno deve ser inferior a 5ms em grupos de 100 pings;
+ 2.14.3 	O envio de 3 grupos seguidos de pings com tempos médios de retorno inferiores ao máximo permitido configura em não atendimento do nível de serviço;
+ 2.15 	Acesso Internet
+ 2.15.1 	O acesso Internet deverá possuir índice de disponibilidade descritas no item 14.13 do Edital, incluindo-se sistemas auxiliares de proxy, firewall e filtros de conteúdo, ou outros que vierem a ser necessários;
+ 3 	Gestão
+ 3.1 	A Gestora Técnica do Contrato será a Empresa de Tecnologia da Informação e Comunicação do Município de São Paulo, PRODAM-SP, exercendo suas atribuições nos termos do presente documento e, ainda, conforme Decreto Municipal n.º 45.992/2005 e atualizações. 
+ 3.2 	A CONTRATADA deverá nomear gerente(es) da prestação de serviços, para fins de comunicação com a Gestora Técnica do Contrato;
+
+ 4 	Tabelas de Áreas de Cobertura
+ 4.1 	Tabela de composição de área de cobertura 
+
+Tipo Densidade	Criticidade
+Baixa Densidade (1 usuário/50m2)	Critico (99%)
+Alta Densidade (1 usuário/5m2)	Critico (99%)
+Baixa Densidade (1 usuário/50m2)	Não Critico (96%)
+Alta Densidade (1 usuário/5m2)	Não Critico (96%)
+
+
+ 4.2 	Acesso Internet
+ 4.2.1 	O link de acesso à Internet terá precificação exclusiva no contrato, sendo, particularmente, sujeito a adequações através de aditamento particular de contrato, conforme termos da lei 8666/93.
+5.2.2	A velocidade mínima de download/upload deve ser calculada mensalmente;
+5.2.3	Cada sessão simultânea deverá ter no mínimo 512kbps de banda internet para upload e download;
+5.2.4	A velocidade nominal do link é a multiplicação de sessões simultâneas pela velocidade mínima, indicada no item 5.2.3;
+  
+
+
+
+
+___________________________________________
+LUIZ ANTONIO VALE MOURA
+Gerência de Telecomunicações - GIC
+
